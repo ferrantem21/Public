@@ -1,2 +1,4 @@
-Setting,Value
-Secure Boot,Enable
+Setting,Value;
+Secure Boot,Enabled;
+SecureBoot,Enable
+SecureBoot,Enabled
